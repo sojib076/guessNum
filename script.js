@@ -10,7 +10,3 @@ function guessNum(pin) {
   
 }
 
-
-
-
-
